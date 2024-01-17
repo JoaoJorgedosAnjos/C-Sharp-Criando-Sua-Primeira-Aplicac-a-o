@@ -12,3 +12,4 @@
 /Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio01/obj/Debug/net8.0/Exercicio01.pdb
 /Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio01/obj/Debug/net8.0/Exercicio01.genruntimeconfig.cache
 /Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio01/obj/Debug/net8.0/ref/Exercicio01.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio01/obj/Debug/net8.0/Exercicio01.sourcelink.json
