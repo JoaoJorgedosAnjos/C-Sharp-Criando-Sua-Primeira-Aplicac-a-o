@@ -1,0 +1,15 @@
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/bin/Debug/net8.0/Exercicio03
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/bin/Debug/net8.0/Exercicio03.deps.json
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/bin/Debug/net8.0/Exercicio03.runtimeconfig.json
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/bin/Debug/net8.0/Exercicio03.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/bin/Debug/net8.0/Exercicio03.pdb
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/obj/Debug/net8.0/Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/obj/Debug/net8.0/Exercicio03.AssemblyInfoInputs.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/obj/Debug/net8.0/Exercicio03.AssemblyInfo.cs
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/obj/Debug/net8.0/Exercicio03.csproj.CoreCompileInputs.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/obj/Debug/net8.0/Exercicio03.sourcelink.json
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/obj/Debug/net8.0/Exercicio03.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/obj/Debug/net8.0/refint/Exercicio03.dll
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/obj/Debug/net8.0/Exercicio03.pdb
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/obj/Debug/net8.0/Exercicio03.genruntimeconfig.cache
+/Users/joaojorge/João Jorge/projects/Alura/CSharp/C Sharp Criando Sua Primeira Aplicação/Exercicio03/obj/Debug/net8.0/ref/Exercicio03.dll
